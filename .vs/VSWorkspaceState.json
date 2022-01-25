@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\21-22_CTEC2902_Labs-main",
+    "\\21-22_CTEC2902_Labs-main\\Week17-ErrorHandlingWebsite",
+    "\\21-22_CTEC2902_Labs-main\\Week17-ErrorHandlingWebsite\\ErrorProneWebsite"
   ],
-  "SelectedNode": "\\Week17-ErrorHandling.sln",
+  "SelectedNode": "\\21-22_CTEC2902_Labs-main\\Week17-ErrorHandlingWebsite\\ErrorProneWebsite\\Default.aspx",
   "PreviewInSolutionExplorer": false
 }
