@@ -31,5 +31,23 @@ namespace ConsoleApp1.Properties {
                 return ((string)(this["GreetingMessage"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool InAGoodMood {
+            get {
+                return ((bool)(this["InAGoodMood"]));
+            }
+        }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("Get out")]
+        public string AngryMessage {
+            get {
+                return ((string)(this["AngryMessage"]));
+            }
+        }
     }
 }

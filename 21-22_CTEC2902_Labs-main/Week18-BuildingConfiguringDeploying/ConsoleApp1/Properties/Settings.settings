@@ -5,5 +5,11 @@
     <Setting Name="GreetingMessage" Type="System.String" Scope="Application">
       <Value Profile="(Default)">Hello there!</Value>
     </Setting>
+    <Setting Name="InAGoodMood" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="AngryMessage" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Get out</Value>
+    </Setting>
   </Settings>
 </SettingsFile>
